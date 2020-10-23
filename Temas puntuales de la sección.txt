@@ -1,0 +1,15 @@
+Temas puntuales de la sección
+
+Aquí cubriremos varios temas como: 
+
+1. Instalación y pruebas con MongoDB
+2. Peticiones HTTP 
+    a. Get 
+    b. Put 
+    c. Post 
+    d. Delete 
+3. Aprender sobre códigos de error HTTP 
+4. Códigos de error en Express 
+5. Archivos para la configuración global 
+6. Tips importantes en Postman
+
