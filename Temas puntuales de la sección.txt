@@ -13,3 +13,6 @@ Aquí cubriremos varios temas como:
 5. Archivos para la configuración global 
 6. Tips importantes en Postman
 
+
+MONGO 
+mongodb+srv://llconstantine:<password>@cluster0.fdbv9.mongodb.net/test
